@@ -23,6 +23,7 @@ I am Buse Başer, a passionate student of Artificial Intelligence Engineering in
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=busebaser&repo=HU_BBM104&theme=radical)](https://github.com/busebaser/HU_BBM104/tree/main/Assignment3)
 
 ## 💬 Let's Connect
 
