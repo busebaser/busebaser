@@ -3,7 +3,6 @@
 ## About Me
 
 I am Buse Başer, a passionate student of Artificial Intelligence Engineering in Hacettepe University, dedicated to exploring the intersections of technology and business. With a proactive approach and an unyielding commitment to self-improvement, I am resolutely preparing myself to thrive in the ever-evolving landscape of the software industry.
-- 👯 I’m looking to collaborate.
 - 📫 How to reach me: busebaserb@gmail.com
 
 ## 📌 Pinned Repositories
