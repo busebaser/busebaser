@@ -7,6 +7,7 @@ I am Buse Başer, a passionate student of Artificial Intelligence Engineering in
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=busebaser&repo=llm-experiments&theme=radical)](https://github.com/busebaser/llm-experiments)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=busebaser&repo=ai-agents-playground&theme=radical)](https://github.com/busebaser/ai-agents-playground)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=busebaser&repo=Deep_Learning&theme=radical)](https://github.com/busebaser/Deep_Learning)
 
 ## 💬 Let's Connect
